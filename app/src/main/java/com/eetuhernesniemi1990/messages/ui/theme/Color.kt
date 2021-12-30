@@ -1,4 +1,4 @@
-package com.hernesniemi.eetu.messages.ui.theme
+package com.eetuhernesniemi1990.messages.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.hernesniemi.eetu.messages
+package com.eetuhernesniemi1990.messages
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.hernesniemi.eetu.messages
+package com.eetuhernesniemi1990.messages
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.hernesniemi.eetu.messages", appContext.packageName)
+        assertEquals("com.eetuhernesniemi1990.messages", appContext.packageName)
     }
 }

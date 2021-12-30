@@ -1,4 +1,4 @@
-package com.hernesniemi.eetu.messages
+package com.eetuhernesniemi1990.messages
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,7 +8,7 @@ import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
-import com.hernesniemi.eetu.messages.ui.theme.MessagesTheme
+import com.eetuhernesniemi1990.messages.ui.theme.MessagesTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
