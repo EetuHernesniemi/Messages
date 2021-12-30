@@ -64,8 +64,10 @@ fun MessageCard(msg: Message) {
 @Preview
 @Composable
 fun PreviewMessageCard() {
-    MessageCard(
-        msg = Message("Colleague", "Hey, take a look at Jetpack Compose, it's great!")
-    )
+    MessagesTheme {
+        MessageCard(
+            msg = Message("Colleague", "Hey, take a look at Jetpack Compose, it's great!")
+        )
+    }
 }
 
